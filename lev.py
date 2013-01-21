@@ -32,4 +32,6 @@ def lev(request):
     return Response(json.dumps(data), content_type='application/json')
 
 
-run_itty(port=80)
+if __name__ == '__main__':
+    port = int(os.environ.get('PORT', 5000))
+    run_itty(port=port)

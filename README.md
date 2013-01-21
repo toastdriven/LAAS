@@ -1,4 +1,4 @@
-LASS
+LAAS
 ====
 
 It's Levenshtein-As-A-Service. You know, for the lulz. Publically accessible at

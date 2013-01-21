@@ -32,4 +32,4 @@ def lev(request):
     return Response(json.dumps(data), content_type='application/json')
 
 
-run_itty()
+run_itty(port=80)

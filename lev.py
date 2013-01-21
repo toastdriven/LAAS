@@ -33,4 +33,4 @@ def lev(request):
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
-    run_itty(port=port)
+    run_itty(host='0.0.0.0', port=port)

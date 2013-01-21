@@ -14,7 +14,7 @@ Please direct all VC monies to Daniel Lindsley. Inspired by Alex Gaynor's
 Requirements
 ------------
 
-* Python 3.3 (Python 2.X will likely work.)
+* Python (>= 2.7.3)
 * itty (>= 0.8.1)
 * pylev (>= 1.1.0)
 
